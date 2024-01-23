@@ -1,0 +1,3 @@
+import '../../../core/app_export.dart';import 'userprofile3_item_model.dart';class CompleteOrderEighteenModel {List<Userprofile3ItemModel> userprofile3ItemList = [Userprofile3ItemModel(fruitSaladImage:ImageConstant.imgBreakfastQuino,fruitSaladName: "Quinoa fruit salad",fruitSaladQuantity: "2packs",fruitSaladPriceText: "20,000"),Userprofile3ItemModel(fruitSaladImage:ImageConstant.imgBerryworldKiwi,fruitSaladName: "Melon fruit salad",fruitSaladQuantity: "2packs",fruitSaladPriceText: "20,000"),Userprofile3ItemModel(fruitSaladImage:ImageConstant.imgBestEverTropi,fruitSaladName: "Tropical fruit salad",fruitSaladQuantity: "2packs",fruitSaladPriceText: "20,000")];
+
+ }
